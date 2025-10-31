@@ -34,8 +34,8 @@ An advanced **AI-powered document understanding system** that reads, indexes, an
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/AI_Document_Reader.git
-cd AI_Document_Reader
+git clone (https://github.com/vihaan-kaushik/AI-Document-Reader)
+cd AI-Document-Reader
 pip install -r requirements.txt
 ```
 
